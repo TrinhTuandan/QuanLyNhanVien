@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\Baitapbuoi6_ EF.exe.config
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\Baitapbuoi6_ EF.exe
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\Baitapbuoi6_ EF.pdb
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6__EF.Properties.Resources.resources
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.csproj.CopyComplete
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.exe
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6_ EF.pdb
+C:\Users\Admin\Desktop\Baitapbuoi6_ EF\Baitapbuoi6_ EF\obj\Debug\Baitapbuoi6__EF.frmQuanLyNhanSu.resources
